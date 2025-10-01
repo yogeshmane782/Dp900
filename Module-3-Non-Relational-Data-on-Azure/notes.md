@@ -8,7 +8,10 @@
   
   ## Blob Storage Types
   ### 1.Block Blobs
+  **-Store text & binary data (documents, images, backups).
+  -Optimized for uploading and streaming large files.**
   
+
 
 
 
