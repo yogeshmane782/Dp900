@@ -48,4 +48,6 @@ Azure Blob supports **access tiers** to balance **cost vs. access frequency**:
 ## 🔹 4. Blob Storage Structure
 
 Blob Storage is organized like this:
+-Storage Account → Container → Blob
+
 
