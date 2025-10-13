@@ -7,6 +7,9 @@
   ETL – traditional pipelines with Informatica, SSIS.
   ELT – modern cloud pipelines using Snowflake or BigQuery.
 # 3.Explain Partitioning and Bucketing in Hive.
-  -**Partitioning**: Divides table data based on column values (e.g., date). Makes queries faster.
-  -**Bucketing**: Divides data into fixed-size “buckets” using a hash function on a column (e.g., user_id). Helps with joins and sampling.
+  ## Partitioning:
+    -Divides table data based on column values (e.g., date). Makes queries faster.
+  ## Bucketing:
+    -Divides data into fixed-size “buckets” using a hash function on a column (e.g., user_id). Helps with joins and sampling.
+
 
